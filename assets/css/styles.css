@@ -290,6 +290,12 @@ img {
   border-radius: 0.5rem;
   z-index: var(--z-back);
 }
+.skills__shop {
+  width: 90%;
+}
+.skills__word {
+  width: 85%;
+}
 .skills__html {
   width: 95%;
 }
